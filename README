@@ -1,3 +1,12 @@
+This is forked code from Fusion/U-Must-Sync
+
+NON-WORKING-CODE
+
+==========================================
+
+
+
+
 1. Install sqlite3: gem install sqlite3-ruby
 2. Install toodledo: gem install toodledo
 3. Run ./resetdb.sh to create databases
